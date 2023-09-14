@@ -29,7 +29,7 @@ def buildWidgets():
 
     # Declaring Labels
     calc_label = tk.Label(root, text="Cart Cost Calculator v1.0", bg=BGCOLOR, fg=TTCOLOR)
-    auth_label = tk.Label(root, text="Created by Danny_Dabs", bg=BGCOLOR, fg=TTCOLOR)
+    auth_label = tk.Label(root, text="Created by ElvenFireball", bg=BGCOLOR, fg=TTCOLOR)
 
     hardware_label = tk.Label(root, text="Hardware Cost:", bg=BGCOLOR, fg=TTCOLOR)
     distillatecost_label = tk.Label(root, text="Distillate Cost:", bg=BGCOLOR, fg=TTCOLOR)
